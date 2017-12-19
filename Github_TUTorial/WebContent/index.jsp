@@ -11,7 +11,7 @@
 <h1>Insert title here</h1>
 <h1>Insert title here</h1>
 <h1>Insert title here</h1>
-<h1>Insert title here</h1>
+
 <h1>Insert title here</h1>
 <h1>Insert title here</h1>
 <h1>Insert title here</h1>
